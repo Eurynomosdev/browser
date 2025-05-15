@@ -1,7 +1,5 @@
 #include "net/url.hh"
 
-#include <iostream>
-
 namespace net
 {
 
